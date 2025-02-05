@@ -1,4 +1,8 @@
 # Retail-Hub-Dashboard
+
+
+![image alt](https://github.com/Muhammedswalihu/Retail-Hub-Dashboard/blob/main/Screenshot%202025-02-05%20at%2018.08.10.png?raw=true)
+
 Profit by Country/State: Uncovered variations in profits across different countries and states, enabling us to allocate resources more effectively. - Returned Products Analysis - Regional Insights - Product Category Trends - Customer Segmentation
 Just completed a fascinating project using Power BI to analyze data from a retail hub! 🛍️
 
